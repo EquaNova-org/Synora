@@ -158,3 +158,167 @@ Current Stage:
 Synora was created with the belief that technology should not only make companies more efficient, but also make workplaces healthier, safer, and more humane.
 
 As AI continues to shape the future of work, Synora aims to ensure that employee well-being remains at the center of innovation.
+
+
+
+
+
+# Synora
+
+### Sun’iy intellekt asosidagi ish joyi sog‘lig‘i va xavfsizligi tizimi
+
+## Loyiha haqida
+
+Synora — bu ish joylarida xodimlarning sog‘lig‘i va xavfsizligini real vaqt rejimida kuzatishga mo‘ljallangan sun’iy intellekt platformasi. Tizim xodimlarning o‘tirish holati, stress darajasi, charchoq va muhim sog‘liq ko‘rsatkichlarini kuzatib boradi hamda ish muhitini xavfsizroq va sog‘lomroq qilishga yordam beradi.
+
+Synora zamonaviy kompaniyalar uchun sun’iy intellekt, ish muhiti tahlili va sog‘liqni saqlashga yo‘naltirilgan avtomatlashtirishni yagona tizimga birlashtiradi.
+
+Synora’ning asosiy maqsadi:
+
+> Sun’iy intellekt yordamida xavfsizroq, sog‘lomroq va inson qadriyatlariga asoslangan ish muhitini yaratish.
+
+---
+
+# Muammo
+
+Bugungi zamonaviy ish joylarida quyidagi muammolar tobora ko‘paymoqda:
+
+* Xodimlarning ruhiy va jismoniy charchashi
+* Noto‘g‘ri o‘tirish holati sababli sog‘liq muammolari
+* Ish vaqtida sezilmay qoladigan favqulodda tibbiy holatlar
+* Kuchli ish bosimi sababli ruhiy zo‘riqish
+* Oldindan ogohlantiruvchi sog‘liq tizimlarining yetishmasligi
+* Katta ofislarda favqulodda holatlarga kech javob berilishi
+
+Ko‘plab xodimlar uzoq vaqt davomida kompyuter qarshisida ishlaydi va ularning sog‘lig‘i doimiy nazoratsiz qoladi.
+
+---
+
+# Yechim
+
+Synora — bu ofis muhitiga o‘rnatiladigan aqlli sog‘liq yordamchisi hisoblanadi.
+
+Sun’iy intellekt yordamida Synora kompaniyalarga:
+
+* noto‘g‘ri o‘tirish holatini aniqlash,
+* jismoniy zo‘riqishni kamaytirish,
+* stress va charchoq belgilarini kuzatish,
+* xodimlarning umumiy sog‘liq holatini tahlil qilish,
+* favqulodda vaziyatlarda avtomatik ogohlantirish yuborish,
+* yaqin xodimlarni birinchi yordam uchun xabardor qilish,
+* zarur holatlarda tez yordam xizmatini chaqirish,
+* xavfsiz va sog‘lom ish muhitini yaratishda yordam beradi.
+
+Tizim foydalanuvchi maxfiyligi va ma’lumotlar xavfsizligini ustuvor deb biladi.
+
+---
+
+# Asosiy imkoniyatlar
+
+## O‘tirish holatini aniqlash tizimi
+
+Tasvirlarni tahlil qilish texnologiyasi yordamida xodimlarning o‘tirish holati kuzatiladi va sog‘lom ishlash bo‘yicha tavsiyalar beriladi.
+
+## Ish muhiti sog‘lig‘ini kuzatish
+
+Sun’iy intellekt stress, charchoq va zararli ish odatlarini aniqlaydi.
+
+## Favqulodda holatlarni aniqlash va javob berish
+
+Jiddiy holatlar aniqlanganda Synora:
+
+* favqulodda signal yuboradi,
+* yaqin xodimlarni ogohlantiradi,
+* xavfsizlik jarayonlarini ishga tushiradi,
+* kerak bo‘lganda tibbiy xizmatlarga murojaat qiladi.
+
+## Sog‘liq tahlili boshqaruv paneli
+
+Kompaniyalar xodimlarning shaxsiy ma’lumotlarini buzmagan holda umumiy sog‘liq va xavf tahlillarini ko‘rish imkoniyatiga ega bo‘ladi.
+
+## Maxfiylikka asoslangan tizim
+
+Synora quyidagilarni asosiy tamoyil sifatida qabul qiladi:
+
+* ma’lumotlarni shifrlangan holda saqlash,
+* xavfsiz korporativ tizimlar,
+* axloqiy sun’iy intellekt tamoyillari,
+* foydalanuvchi roziligiga asoslangan kuzatuv.
+
+---
+
+# Maqsadli bozor
+
+Synora asosan quyidagi tashkilotlar uchun mo‘ljallangan:
+
+* korporativ ofislar,
+* yirik kompaniyalar,
+* texnologik kompaniyalar,
+* moliyaviy tashkilotlar,
+* hamkorlik asosidagi ish markazlari,
+* aqlli ofis tizimlari.
+
+Kelajakdagi kengayish yo‘nalishlari:
+
+* zavodlar,
+* shifoxonalar,
+* universitetlar,
+* aeroportlar,
+* omborxonalar,
+* qariyalar parvarishi markazlari.
+
+---
+
+# Biznes modeli
+
+Synora kompaniyalarga xizmat ko‘rsatish va texnologik qurilmalarni taqdim etish modeli asosida ishlaydi.
+
+Daromad manbalari:
+
+* oylik korporativ obuna,
+* sun’iy intellekt tahlil tizimlari litsenziyalari,
+* aqlli ofis qurilmalarini integratsiya qilish,
+* premium favqulodda yordam tizimlari,
+* korporativ sog‘liq hamkorliklari,
+* sug‘urta va ish xavfsizligi tashkilotlari bilan hamkorliklar.
+
+---
+
+# Raqobat ustunligi
+
+Synora’ni boshqalardan ajratib turadigan jihatlar:
+
+* real vaqt rejimidagi sog‘liq va xavfsizlik nazorati,
+* sog‘liq kuzatuvi va favqulodda yordam tizimining birlashgani,
+* inson manfaatlariga yo‘naltirilgan sun’iy intellekt,
+* sog‘liq muammolarining oldini olishga qaratilgan yondashuv,
+* yirik kompaniyalar uchun mos infratuzilma,
+* turli sohalarga moslashuvchanlik.
+
+Synora xodimlarni kuzatish dasturi emas.
+Bu xodimlar sog‘lig‘i va xavfsizligini himoya qiluvchi aqlli tizimdir.
+
+---
+
+# Kelajak qarashi
+
+Bizning fikrimizcha, kelajakdagi ish joylari nafaqat samaradorlikni oshirishi, balki inson sog‘lig‘ini ham faol himoya qilishi kerak.
+
+Synora dunyo bo‘ylab ish joylari sog‘lig‘i va xavfsizligi uchun asosiy aqlli tizimlardan biriga aylanishni maqsad qilgan.
+
+---
+
+# Hozirgi bosqich
+
+* loyiha g‘oyasi va dastlabki rivojlantirish bosqichi,
+* brend shakllantirilgan,
+* dastlabki mahsulot arxitekturasi tayyorlanmoqda,
+* investorlar va venchur fondlari uchun taqdimot jarayoni olib borilmoqda.
+
+---
+
+# Asoschi fikri
+
+Synora texnologiya kompaniyalarni faqat samaraliroq emas, balki sog‘lomroq, xavfsizroq va insoniyroq qilishi kerak degan g‘oya asosida yaratilgan.
+
+Sun’iy intellekt ish kelajagini shakllantirar ekan, Synora innovatsiyalar markazida inson salomatligi va farovonligi bo‘lishini ta’minlashni maqsad qiladi.
